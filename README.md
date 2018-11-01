@@ -6,10 +6,10 @@ Original code you can find on https://github.com/codyseibert/tab-tracker
 
 # README.md from original repo
 
-# Tab Tracker
+## Tab Tracker
 A Vue.js / Express.js web application for keeping track of guitar tabs
 
-# Setup
+## Setup
 
 You need to have Node Js installed: https://nodejs.org/en/
 
