@@ -53,7 +53,7 @@ module.exports = {
       })
     } catch (err) {
       res.status(500).send({
-        error: 'An error has occured trying to log in'
+        error: 'An error has occurred trying to log in'
       })
     }
   }
