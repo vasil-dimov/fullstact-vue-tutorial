@@ -59,7 +59,7 @@ module.exports = {
       res.send(req.body)
     } catch (err) {
       res.status(500).send({
-        error: 'an error has occured trying to update the song'
+        error: 'An error has occurred trying to update the song'
       })
     }
   }
